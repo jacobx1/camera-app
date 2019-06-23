@@ -1,0 +1,28 @@
+{
+  "name": "camera-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel src/index.html",
+    "build": "npx parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^16.8.22",
+    "@types/react-dom": "^16.8.4",
+    "parcel-bundler": "^1.12.3",
+    "sass": "^1.21.0",
+    "typescript": "^3.5.2"
+  },
+  "dependencies": {
+    "@types/tracking": "^1.1.29",
+    "imagedata-filters": "^1.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "tracking": "^1.1.3"
+  }
+}
