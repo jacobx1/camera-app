@@ -11,7 +11,7 @@ npm i
 ## Build
 
 ```bash
-npx run build
+npm run build
 ```
 
 ## Develop
