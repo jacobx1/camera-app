@@ -12,11 +12,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/react": "^16.8.22",
+    "@types/react": "^16.8.23",
     "@types/react-dom": "^16.8.4",
     "parcel-bundler": "^1.12.3",
-    "sass": "^1.21.0",
-    "typescript": "^3.5.2"
+    "sass": "^1.22.7",
+    "typescript": "^3.5.3"
   },
   "dependencies": {
     "@types/tracking": "^1.1.29",
